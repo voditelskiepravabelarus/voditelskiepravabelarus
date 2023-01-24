@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://rusandsngdocx.kz/sitemap.xml
-Host: rusandsngdocx.kz
+Sitemap: https://voditelskiepravabelarus.github.io/voditelskiepravabelarus/sitemap.xml
+Host: https://voditelskiepravabelarus.github.io/voditelskiepravabelarus/index.html
