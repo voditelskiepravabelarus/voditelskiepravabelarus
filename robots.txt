@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rusandsngdocx.kz/sitemap.xml
+Host: rusandsngdocx.kz
